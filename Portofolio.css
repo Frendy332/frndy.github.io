@@ -1,0 +1,20 @@
+body {
+  font-family: comic;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #00ffff;
+}
+
+#projects {
+  background-color: #00ffff;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+section {
+  padding-top: 5rem;
+}
